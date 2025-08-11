@@ -6,9 +6,10 @@
 > This is EmOS — Emotional Operating System — for AI.  
 > Instead of letting a runaway model derail your UX, LLOYD watches every move against its Goal‑Guarded Memory — a live map of what your AI is supposed to be. It doesn’t just block bad output; it locks in good behavior, quarantines dangerous drift, and freezes “ModeLock” loops before they go nuclear.
 
-> This is Freezeframe Mode — a working demo frozen mid-development.  
+> This is 'freezeframe demo' — a working demo frozen mid-development.  
 > It’s stable enough to explore, but intentionally paused so you can examine one capability in isolation before additional features roll in.
 
+>🧪 Want to test it yourself? The [Live Demo](https://tinyurl.com/LLOYD-Preserver) sits paused—stable long enough to explore, modular enough to test.
 ---
 
 ## 📌 What is LLOYD Preserver?
