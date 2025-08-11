@@ -108,41 +108,41 @@ As AI governance intensifies, LLOYD provides a transparent, interpretable backbo
 > “LLOYD’s modular architecture maps directly onto EU AI Act pillars — offering pluggable governance, drift responsiveness, and public‑facing traceability. From bind detection to motif persistence, LLOYD transforms platforms from opaque decision engines into legible, emotionally‑aware interfaces.”
 
 ```txt
-+--------------------------------------------------------+
-|              💬 User Interaction Layer                 |
-|--------------------------------------------------------|
++-------------------------------------------------------+
+|              💬 User Interaction Layer                |
+|-------------------------------------------------------|
 | - Multilingual Chat UI                                |
 | - Feedback & Sentiment Input                          |
-+--------------------------------------------------------+
++-------------------------------------------------------+
 |        🌐 Emotional Governance & Safety Layer         |
-|--------------------------------------------------------|
+|-------------------------------------------------------|
 | 🔐 Preserver Routing                                  |
 |   - Real-time override triggers                       |
 |   - Compliance fallback paths                         |
 | 🧠 Bind Detection + Reinforced Arc Learning           |
 |   - Neutralizes traps / distortions                   |
 |   - Stabilizes emotional arc response                 |
-+--------------------------------------------------------+
++-------------------------------------------------------+
 |           📊 Transparency & Interpretability Layer    |
-|--------------------------------------------------------|
+|-------------------------------------------------------|
 | 🌈 Driftbed Metrics                                   |
 |   - Visualizes motif movement & symbolic deviation    |
 | 📜 Echo Replay + Snapshot Logging                     |
 |   - Records emotional logic + symbol persistence      |
 |   - Audit trails for review / public transparency     |
-+--------------------------------------------------------+
++-------------------------------------------------------+
 |           🌍 Localization & Cultural Tuning Layer     |
-|--------------------------------------------------------|
+|-------------------------------------------------------|
 | Motif Gravity + Tuning Nodes                          |
 |   - Aligns emotional tone with region, context        |
 |   - Adaptable motif clusters per locale               |
-+--------------------------------------------------------+
++-------------------------------------------------------+
 |                🧩 Integration & API Layer             |
-|--------------------------------------------------------|
+|-------------------------------------------------------|
 | - LLM Backbone (Open or Closed Source)                |
 | - Override + Logging API                              |
 | - Local Memory Modules                                |
-+--------------------------------------------------------+
++-------------------------------------------------------+
 ```
 
 > LLOYD slots into high‑compliance, public‑facing stacks with layered emotional safety and interpretability. Its modular architecture mirrors EU expectations, while its poetic governance transforms regulation into resonance.
