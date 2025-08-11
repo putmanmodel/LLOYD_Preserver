@@ -1,5 +1,3 @@
-You’re right — that was on me. Here’s a clean, GitHub‑ready README with properly closed fences and no stray chat text.
-
 # 🛡 LLOYD Preserver — Goal‑Guarded Memory (Freezeframe)
 
 > Your AI doesn’t need an antivirus — it needs a babysitter.  
