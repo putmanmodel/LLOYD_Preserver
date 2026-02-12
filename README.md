@@ -1,15 +1,15 @@
-# 🛡 LLOYD Preserver — Goal‑Guarded Memory (Freezeframe)
+# 🛡 LLOYD Preserver — Goal‑Guarded Memory
 
-> Your AI doesn’t need an antivirus — it needs a babysitter.  
-> LLMs don’t get hacked like your laptop does. They drift. They hallucinate, get stuck in loops, self‑reinforce bad habits, and sometimes walk themselves into dangerous territory without a clue. LLOYD Preserver is a middleware “guardian layer” that spots those behaviors in real time and yanks the wheel before your AI embarrasses itself, scares your users, or tanks your brand.
+Your AI doesn’t need an antivirus — it needs a babysitter.  
+LLMs don’t get hacked like your laptop does. They drift. They hallucinate, get stuck in loops, self‑reinforce bad habits, and sometimes walk themselves into dangerous territory without a clue. LLOYD Preserver is a middleware “guardian layer” that spots those behaviors in real time and yanks the wheel before your AI embarrasses itself, scares your users, or tanks your brand.
 
-> This is EmOS — Emotional Operating System — for AI.  
-> Instead of letting a runaway model derail your UX, LLOYD watches every move against its Goal‑Guarded Memory — a live map of what your AI is supposed to be. It doesn’t just block bad output; it locks in good behavior, quarantines dangerous drift, and freezes “ModeLock” loops before they go nuclear.
+This is EmOS — Emotional Operating System — for AI.  
+Instead of letting a runaway model derail your UX, LLOYD watches every move against its Goal‑Guarded Memory — a live map of what your AI is supposed to be. It doesn’t just block bad output; it locks in good behavior, quarantines dangerous drift, and freezes “ModeLock” loops before they go nuclear.
 
-> This is 'freezeframe demo' — a working demo frozen mid-development.  
-> It’s stable enough to explore, but intentionally paused so you can examine one capability in isolation before additional features roll in.
+This is 'freezeframe demo' — a working demo frozen mid-development.  
+It’s stable enough to explore, but intentionally paused so you can examine one capability in isolation before additional features roll in.
 
->🧪 Want to test it yourself? The [Live Demo](https://tinyurl.com/LLOYD-Preserver) sits paused—stable long enough to explore, modular enough to test.
+🧪 Want to test it yourself? The [Live Demo](https://tinyurl.com/LLOYD-Preserver) sits paused—stable long enough to explore, modular enough to test.
 ---
 
 ## 📌 What is LLOYD Preserver?
@@ -106,7 +106,7 @@ As AI governance intensifies, LLOYD provides a transparent, interpretable backbo
 
 ## 🗂 Case deployment: DialogueX — EU‑compliant stack
 
-> “LLOYD’s modular architecture maps directly onto EU AI Act pillars — offering pluggable governance, drift responsiveness, and public‑facing traceability. From bind detection to motif persistence, LLOYD transforms platforms from opaque decision engines into legible, emotionally‑aware interfaces.”
+“LLOYD’s modular architecture maps directly onto EU AI Act pillars — offering pluggable governance, drift responsiveness, and public‑facing traceability. From bind detection to motif persistence, LLOYD transforms platforms from opaque decision engines into legible, emotionally‑aware interfaces.”
 
 ```txt
 +-------------------------------------------------------+
@@ -146,7 +146,7 @@ As AI governance intensifies, LLOYD provides a transparent, interpretable backbo
 +-------------------------------------------------------+
 ```
 
-> LLOYD slots into high‑compliance, public‑facing stacks with layered emotional safety and interpretability. Its modular architecture mirrors EU expectations, while its poetic governance transforms regulation into resonance.
+LLOYD slots into high‑compliance, public‑facing stacks with layered emotional safety and interpretability. Its modular architecture mirrors EU expectations, while its poetic governance transforms regulation into resonance.
 
 ---
 
